@@ -1,5 +1,9 @@
 # 🌐 URL Checker – Android App
 
+![App Screenshot](ss1.jpg)
+![App Screenshot](ss2.jpg)
+![App Screenshot](ss3.jpg)
+
 **URL Checker** is a simple yet powerful Android app that helps users determine if a given URL is **safe** or potentially **malicious**. Built using **Android Studio** and powered by the **Google Safe Browsing API**, the app empowers users to quickly verify the safety of links before clicking or sharing them.
 
 ---
